@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
-I´m Minh Quân
+Welcome to my page!
+I´m Minh Quân, BE developer from Vietnamese 
 
 ## 🚀💻 Technologies & Tools
 
@@ -24,4 +24,5 @@ I´m Minh Quân
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 
-
+## Top Open Source
+[![VietChat](https://github-readme-stats.vercel.app/api/pin/?username=Minhquanzz1002&repo=viet-chat-backend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Minhquanzz1002/viet-chat-backend)
