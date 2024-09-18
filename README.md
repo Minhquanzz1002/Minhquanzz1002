@@ -26,5 +26,7 @@ I´m Minh Quân, BE developer from Vietnamese
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 
 ## Top Open Source
-[![VietChat](https://github-readme-stats.vercel.app/api/pin/?username=Minhquanzz1002&repo=viet-chat-backend-v2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Minhquanzz1002/viet-chat-backend-v2)
-[![VietChat](https://github-readme-stats.vercel.app/api/pin/?username=Minhquanzz1002&repo=viet-chat-web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Minhquanzz1002/viet-chat-web)
+[![VietChatBackend](https://github-readme-stats.vercel.app/api/pin/?username=Minhquanzz1002&repo=viet-chat-backend-v2&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Minhquanzz1002/viet-chat-backend-v2)
+[![VietChatWeb](https://github-readme-stats.vercel.app/api/pin/?username=Minhquanzz1002&repo=viet-chat-web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Minhquanzz1002/viet-chat-web)
+[![PhuThoTourist](https://github-readme-stats.vercel.app/api/pin/?username=Minhquanzz1002&repo=phu-tho-tourist&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Minhquanzz1002/phu-tho-tourist)
+[![QueuingSystem](https://github-readme-stats.vercel.app/api/pin/?username=Minhquanzz1002&repo=queuing-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Minhquanzz1002/queuing-system)
